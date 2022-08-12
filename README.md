@@ -63,5 +63,3 @@ This image is provided under a community edition license for non-commercial use.
 HELayers is the next step in the advancement of FHE at IBM.  If you are moving from the Toolkit, you will see familiar code that helped get your applications up and running built around the HElib library.  We have extended that and now offer much more in this edition.  We invite all the Toolkit users to try out HELayers and let us know what you think by taking the survey below and providing feedback on how we can improve and serve you better.  We will only use your feedback to improve the HELayers experience and inform future IBM security-focused products and services.  IBM will not share your response data with any third parties.  We look forward to your valuable feedback to improve the IBM FHE experience. 
 
 [https://www.surveygizmo.com/s3/6494169/IBM-HElayers-SDK-Survey](https://www.surveygizmo.com/s3/6494169/IBM-HElayers-SDK-Survey)
-
-
